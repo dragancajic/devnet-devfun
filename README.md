@@ -2,4 +2,4 @@
 
 ### _DevNet Developer Fun Repository README_
 
-02 Git and GitHub: _A Brief Introduction to Git_
+~ 02 Git and GitHub: _A Brief Introduction to Git_
